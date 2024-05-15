@@ -21,4 +21,5 @@ var (
 	TimerDispatcherLen = 10000
 	AsynCallLen        = 10000
 	ChanRPCLen         = 10000
+	RedisAddr          = "127.0.0.1:6379"
 )
